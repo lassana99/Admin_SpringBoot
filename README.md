@@ -21,6 +21,6 @@ Voici la liste de tous les roles qui ont été enregistrés dans la table qui s'
 
 ![AffichageRoles](https://user-images.githubusercontent.com/120748789/219977469-36c1b13b-0f48-4cf7-a621-b3c13243999a.jpg)
 
-Voici l'affichage de role à partir de id au niveau de login : 
+Voici l'affichage de role à partir de id au niveau de login précisement pour id = 2 (cas particulier) : 
 
 ![AffichageRoleById](https://user-images.githubusercontent.com/120748789/219977514-e1747087-4c5c-4484-964e-e7af537969d7.jpg)
